@@ -1,0 +1,9 @@
+Package: qepackage
+Type: Package
+Title: R course material
+Version: 1.0
+Date: 2015-04-30
+Author: Duncan Golicher
+Maintainer: <dgolicher@gmail.com>
+Description: More about what it does (maybe more than one line)
+License: What license is it under?
